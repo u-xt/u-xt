@@ -1,5 +1,7 @@
 ## Hi everyone
 ## I am u_xt also known as xt
 
-### Skills:
-[![My Skills](https://skillicons.dev/icons?i=arch,arduino,aws,azure,blender,c,cs,cpp,css,discord,bots,github,html,js,linux,lua,py,replit,windows,vscode,robloxstudio)](https://skillicons.dev)
+### Skills
+
+Applications I have knowledge of:
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps,robloxstudio,replit,github,discord,bots,ae)](https://skillicons.dev)
