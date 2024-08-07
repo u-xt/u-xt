@@ -12,4 +12,5 @@
 ## Programming languages
 [![languages](https://skillicons.dev/icons?i=py,lua,css,js,c,cs)](https://skillicons.dev)
 
-## 
+## others more
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue)](https://skillicons.dev)
