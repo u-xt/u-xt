@@ -1,6 +1,7 @@
 ## Hi everyone
 ## I am u_xt also known as xt
-
+I really like Lua and Python even though they are basic.
+💘K 
 ### Skills
 
 ## Applications I have knowledge of:
@@ -13,4 +14,4 @@
 [![languages](https://skillicons.dev/icons?i=py,lua,css,js,c,cs)](https://skillicons.dev)
 
 ## others more
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue)](https://skillicons.dev)
+[![vps](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue)](https://skillicons.dev)
