@@ -5,7 +5,7 @@ I love her 💘K💘
 I've done a lot more since before the pandemic but I uploaded it to pastebin until I decided to delete it and do more on github
 
 #
-[![info](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) u_xt
+[![info](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) ## u_xt
 ### Skills
 
 ## Applications I have knowledge of:
