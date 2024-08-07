@@ -4,6 +4,12 @@
 ### Skills
 
 ## Applications I have knowledge of:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps,robloxstudio,replit,github,discord,bots,ae)](https://skillicons.dev)
+[![APPS](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps,robloxstudio,replit,github,discord,bots,ae)](https://skillicons.dev)
 
-## operating systems I use
+## Operating systems I use
+[![OS](https://skillicons.dev/icons?i=windows,kali,arch,ubuntu,mint,linux)](https://skillicons.dev)
+
+## Programming languages
+[![languages](https://skillicons.dev/icons?i=py,lua,css,js,c,cs)](https://skillicons.dev)
+
+## 
