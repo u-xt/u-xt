@@ -3,5 +3,7 @@
 
 ### Skills
 
-Applications I have knowledge of:
+## Applications I have knowledge of:
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps,robloxstudio,replit,github,discord,bots,ae)](https://skillicons.dev)
+
+## operating systems I use
