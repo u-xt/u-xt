@@ -1,7 +1,10 @@
 ## Hi everyone
 ## I am u_xt also known as xt
 I really like Lua and Python even though they are basic.
-💘K 
+I love her 💘K💘
+
+I've done a lot more since before the pandemic but I uploaded it to pastebin until I decided to delete it and do more on github
+
 ### Skills
 
 ## Applications I have knowledge of:
